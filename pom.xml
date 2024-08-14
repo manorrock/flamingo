@@ -9,7 +9,5 @@
     <version>25.5.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Manorrock Flamingo - Project</name>
-    <modules>
-        <module>stage</module>
-    </modules>
+    <modules></modules>
 </project>
