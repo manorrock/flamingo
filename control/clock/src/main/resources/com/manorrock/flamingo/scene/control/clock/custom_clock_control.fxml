@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.control.Label?>
+
+<Pane xmlns:fx="http://javafx.com/fxml" fx:controller="flamingo.CustomClockControl">
+    <Label fx:id="timeLabel" layoutX="10" layoutY="10" />
+</Pane>
